@@ -16,4 +16,4 @@ What actually this script does is as follows:
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ###code_book.md
-This file contains the descriptions related to tidy data obtained by the script. In order to get fammiliar with "tidy_data.txt" data set it's better to look at this file. 
+This file contains the descriptions related to tidy data obtained by the script. In order to get fammiliar with "tidy_data.txt" dataset it's better to look at this file. 
